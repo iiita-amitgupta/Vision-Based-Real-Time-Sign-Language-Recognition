@@ -13,4 +13,6 @@ For dataset having six classes, to collect the data run collect-data.py, to trai
 Component 2.
 For dataset having 29 classes, run train_29.py
 
+Hand Gesture with Dataset-I.zip contains Complete code for Dataset-I and the dataset. We can simply download it and extract it and run it.
+
 These code can easily run on intel-i3 processor having 4GB RAM.
